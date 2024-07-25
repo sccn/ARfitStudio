@@ -1,4 +1,4 @@
-What is ARfitStudio
+What is ARfitStudio?
 -------------------
 
 First of all, ARfit is a collection of Matlab modules developed by Tapio
@@ -26,7 +26,7 @@ should compile the mex file.
 <http://www.mathworks.com/matlabcentral/fileexchange/174-arfit>
 <http://www.mathworks.com/matlabcentral/fileexchange/29854-multiple-colon/content/mcolonFolder/mcolon.m>
 
-Why ARfitStudio
+Why ARfitStudio?
 ---------------
 
 If there are spike artifacts with high amplitude, we cannot filter the
